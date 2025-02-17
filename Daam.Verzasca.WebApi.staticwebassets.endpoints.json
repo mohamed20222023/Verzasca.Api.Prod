@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "ManifestType": "Publish",
+  "Endpoints": [
+    {
+      "Route": "reports/QRCoder.9y0fla3v7z.dll",
+      "AssetFile": "reports/QRCoder.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b8A2KqWamt+7PUp3wiXG0hPTtBMFwGOBOE24dZApTJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 20:48:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9y0fla3v7z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b8A2KqWamt+7PUp3wiXG0hPTtBMFwGOBOE24dZApTJY="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/QRCoder.dll"
+        }
+      ]
+    },
+    {
+      "Route": "reports/QRCoder.dll",
+      "AssetFile": "reports/QRCoder.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b8A2KqWamt+7PUp3wiXG0hPTtBMFwGOBOE24dZApTJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 20:48:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b8A2KqWamt+7PUp3wiXG0hPTtBMFwGOBOE24dZApTJY="
+        }
+      ]
+    },
+    {
+      "Route": "reports/TaskTeamDetail.cciimjn4b6.rdl",
+      "AssetFile": "reports/TaskTeamDetail.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJ9hmKTaPL5uT/JHtL5LFTzToomy7L+P8HqJyYeu67s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 20:48:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cciimjn4b6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJ9hmKTaPL5uT/JHtL5LFTzToomy7L+P8HqJyYeu67s="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/TaskTeamDetail.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/TaskTeamDetail.rdl",
+      "AssetFile": "reports/TaskTeamDetail.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJ9hmKTaPL5uT/JHtL5LFTzToomy7L+P8HqJyYeu67s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 20:48:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJ9hmKTaPL5uT/JHtL5LFTzToomy7L+P8HqJyYeu67s="
+        }
+      ]
+    }
+  ]
+}
