@@ -3,6 +3,88 @@
   "ManifestType": "Publish",
   "Endpoints": [
     {
+      "Route": "reports/GoodsReceipt.rdl",
+      "AssetFile": "reports/GoodsReceipt.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aGlnocn2jIJCc7azJyCSQ8+HGb0Jq+5wrVylYOyOy8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 08:01:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aGlnocn2jIJCc7azJyCSQ8+HGb0Jq+5wrVylYOyOy8U="
+        }
+      ]
+    },
+    {
+      "Route": "reports/GoodsReceipt.wu1c50fnlo.rdl",
+      "AssetFile": "reports/GoodsReceipt.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aGlnocn2jIJCc7azJyCSQ8+HGb0Jq+5wrVylYOyOy8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 08:01:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wu1c50fnlo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aGlnocn2jIJCc7azJyCSQ8+HGb0Jq+5wrVylYOyOy8U="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/GoodsReceipt.rdl"
+        }
+      ]
+    },
+    {
       "Route": "reports/QRCoder.9y0fla3v7z.dll",
       "AssetFile": "reports/QRCoder.dll",
       "Selectors": [],
